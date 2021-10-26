@@ -4,6 +4,8 @@
 # TEAM
 
     <name> Damomo Mandy <role> -- <twitter>
+    damomo411@yahoo.com
+    devops engineer, 
 
 # THANKS
 
