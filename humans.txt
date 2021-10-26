@@ -3,9 +3,9 @@
 
 # TEAM
 
-    <name> Damomo Mandy <role> -- <twitter>
+    <name> Damomo Mandy 
     damomo411@yahoo.com
-    devops engineer, 
+    devops engineer
 
 # THANKS
 
@@ -15,3 +15,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, machine learning, AWS GCP
+
