@@ -18,9 +18,4 @@
     HTML5, CSS3, Angular
     jQuery, Modernizr, machine learning, AWS GCP
 
-<<<<<<< HEAD
-    Just trying to cause confusion on this program
-
-=======
-Devops engineer level 3 master 
->>>>>>> added more trouble
+Doing some necessary changes to see what happens
