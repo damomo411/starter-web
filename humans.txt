@@ -9,7 +9,7 @@
 
 # THANKS
 
-    <name>
+    Thanks to the lecturer and students.
 
 # TECHNOLOGY COLOPHON
 
