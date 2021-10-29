@@ -8,7 +8,7 @@ This is the famous and one of the best training course of devops
 
 ## Git comparisons 
 Adding Git comparisons lecture
-
+Adding Git release lectures and Git Advanced part
 ## Contribution
 Fork the report an raise pull report for review
 
